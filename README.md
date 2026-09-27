@@ -2,7 +2,7 @@
 
 🌐 [Personal website](https://naichuan04.github.io/) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=Nmd-4kYAAAAJ) · ✉️ [Email](mailto:sun_naichuan@outlook.com)
 
-- 🎓 Ph.D. student at the School of Artificial Intelligence, Shanghai Jiao Tong University, advised by [Prof. Yuanbo Xiangli](https://kam1107.github.io/).
+- 🎓 Ph.D. student at the School of Artificial Intelligence, Shanghai Jiao Tong University (SJTU), advised by [Prof. Yuanbo Xiangli](https://kam1107.github.io/).
 - 🎓 Previously a visiting student at Westlake University, working with [Prof. Peidong Liu](https://ethliup.github.io/), and an undergraduate in Automation at Nankai University.
 - 🌱 Research interests: robot learning, loco-manipulation, and world models for humanoid robots and robotic arms.
 
