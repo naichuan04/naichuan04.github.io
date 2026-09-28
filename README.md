@@ -1,6 +1,6 @@
 # Naichuan Sun · Academic Homepage
 
-🌐 [Personal website](https://naichuan04.github.io/) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=Nmd-4kYAAAAJ) · ✉️ [Email](mailto:sun_naichuan@outlook.com)
+🌐 [Personal website](https://naichuan04.github.io/) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=Nmd-4kYAAAAJ) · ✉️ [Email](mailto:sun_naichuan@outlook.com) · [ORCID](https://orcid.org/0009-0000-6410-4237)
 
 - 🎓 Ph.D. student at the School of Artificial Intelligence, Shanghai Jiao Tong University (SJTU), advised by [Prof. Yuanbo Xiangli](https://kam1107.github.io/).
 - 🎓 Previously a visiting student at Westlake University, working with [Prof. Peidong Liu](https://ethliup.github.io/), and an undergraduate in Automation at Nankai University.
