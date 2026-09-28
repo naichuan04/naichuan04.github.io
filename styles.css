@@ -34,6 +34,8 @@ strong { font-weight: 600; }
 .publication-venue { margin-top: .15rem; color: var(--muted); font-style: italic; }
 .publication-summary { margin-top: .65rem; }
 .paper-link { display: inline-flex; align-items: center; min-height: 44px; margin-top: .25rem; }
+.publication-links { display: flex; flex-wrap: wrap; gap: 0 1.5rem; }
+.paper-link[aria-disabled="true"] { color: var(--muted); cursor: default; }
 .awards-list, .education-list { display: grid; margin: 0; padding: 0; list-style: none; }
 .awards-list { gap: .65rem; }
 .awards-list li, .education-heading { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: .15rem 2rem; align-items: baseline; }
