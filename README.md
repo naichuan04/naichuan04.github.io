@@ -22,7 +22,7 @@ The website uses plain HTML and CSS, with no build step or external dependencies
 | `styles.css` | Typography, layout, and responsive styles |
 | `assets/` | Portrait, publication figure, robot demonstration video, and icons |
 
-The DexWeave entry links to the [project page](https://dexweave.github.io/). Its Paper (arXiv) entry is an inactive placeholder until the arXiv URL is available.
+The DexWeave entry links to the [project page](https://dexweave.github.io/) and the [Paper](https://arxiv.org/abs/2609.34724).
 
 To preview locally, run this command from the repository root:
 
